@@ -1,11 +1,14 @@
 # Tauri Plugin clipboard
 
-[![Deploy VitePress site to Pages](https://github.com/CrossCopy/tauri-plugin-clipboard/actions/workflows/docs.yml/badge.svg)](https://github.com/CrossCopy/tauri-plugin-clipboard/actions/workflows/docs.yml)
 [![Clippy](https://github.com/CrossCopy/tauri-plugin-clipboard/actions/workflows/clippy.yml/badge.svg)](https://github.com/CrossCopy/tauri-plugin-clipboard/actions/workflows/clippy.yml)
-[![Format](https://github.com/CrossCopy/tauri-plugin-clipboard/actions/workflows/format.yml/badge.svg)](https://github.com/CrossCopy/tauri-plugin-clipboard/actions/workflows/format.yml)
 [![Test](https://github.com/CrossCopy/tauri-plugin-clipboard/actions/workflows/test.yml/badge.svg)](https://github.com/CrossCopy/tauri-plugin-clipboard/actions/workflows/test.yml)
+
 ![Crates.io Version](https://img.shields.io/crates/v/tauri-plugin-clipboard)
+![Crates.io Downloads (recent)](https://img.shields.io/crates/dr/tauri-plugin-clipboard)
+
 ![NPM Version](https://img.shields.io/npm/v/tauri-plugin-clipboard-api)
+![NPM Downloads](https://img.shields.io/npm/dm/tauri-plugin-clipboard-api)
+
 [![Documentation](https://docs.rs/tauri-plugin-clipboard/badge.svg)](https://docs.rs/tauri-plugin-clipboard)
 ![GitHub License](https://img.shields.io/github/license/CrossCopy/tauri-plugin-clipboard)
 
