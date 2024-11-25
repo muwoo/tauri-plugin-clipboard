@@ -255,7 +255,7 @@ impl ClipboardManager {
             .lock()
             .map_err(|err| err.to_string())?
             .set_image(img)
-            .unwrap();
+            .unwrap_or(());
         Ok(())
     }
 
